@@ -70,11 +70,15 @@ Corporate web platform
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aubert-gloire&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aubert-gloire&layout=compact&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aubert-gloire&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/aubert-gloire)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aubert-gloire&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aubert-gloire&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/aubert-gloire)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aubert-gloire&theme=radical&hide_border=true)](https://github.com/aubert-gloire)
+
+</div>
 
 ### 🎯 Currently
 
