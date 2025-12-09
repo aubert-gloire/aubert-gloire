@@ -62,11 +62,17 @@ Full-stack enterprise web application
 - 🔹 Scalable architecture
 - 🔹 Production-ready solution
 
-#### 🌐 [Kamcorp Web](https://github.com/aubert-gloire/kamcorpweb)
-Corporate web platform
-- 🔹 TypeScript-based frontend
-- 🔹 Responsive & modern UI
-- 🔹 Optimized performance
+#### 🏠 [RentACT](https://github.com/aubert-gloire/rentact)
+Real estate rental management platform
+- 🔹 Full-stack web application
+- 🔹 Property listing and management features
+- 🔹 Modern UI/UX design
+
+#### 👥 [Youth Prediction](https://github.com/aubert-gloire/youth-prediction)
+Machine learning model for youth behavior prediction
+- 🔹 Built with Python and ML algorithms
+- 🔹 Data analysis and predictive modeling
+- 🔹 Statistical insights and visualization
 
 ### 🎯 Currently
 
