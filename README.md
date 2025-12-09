@@ -68,8 +68,8 @@ Real estate rental management platform
 - 🔹 Property listing and management features
 - 🔹 Modern UI/UX design
 
-#### 👥 [Youth Prediction](https://github.com/aubert-gloire/youth-prediction)
-Machine learning model for youth behavior prediction
+#### 👥 [Youth Income Predictor](https://github.com/aubert-gloire/youth-income-predictor)
+Machine learning model for youth income prediction
 - 🔹 Built with Python and ML algorithms
 - 🔹 Data analysis and predictive modeling
 - 🔹 Statistical insights and visualization
