@@ -70,9 +70,18 @@ Corporate web platform
 
 ### 📊 GitHub Stats
 
-![Aubert's GitHub stats](https://github-readme-stats.vercel.app/api?username=aubert-gloire&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aubert-gloire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aubert's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aubert-gloire&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aubert-gloire&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aubert-gloire&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aubert-gloire&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 ### 🎯 Currently
 
