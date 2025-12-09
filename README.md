@@ -62,7 +62,7 @@ Full-stack enterprise web application
 - 🔹 Scalable architecture
 - 🔹 Production-ready solution
 
-#### 🏠 [RentACT](https://github.com/aubert-gloire/rentact)
+#### 🏠 [RENTTACT](https://github.com/aubert-gloire/RENTTACT)
 Real estate rental management platform
 - 🔹 Full-stack web application
 - 🔹 Property listing and management features
