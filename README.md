@@ -68,18 +68,6 @@ Corporate web platform
 - 🔹 Responsive & modern UI
 - 🔹 Optimized performance
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aubert-gloire&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/aubert-gloire)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aubert-gloire&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/aubert-gloire)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aubert-gloire&theme=radical&hide_border=true)](https://github.com/aubert-gloire)
-
-</div>
-
 ### 🎯 Currently
 
 - 🔭 Building innovative AI/ML solutions
